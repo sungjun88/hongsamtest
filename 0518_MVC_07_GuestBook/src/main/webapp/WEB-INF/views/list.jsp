@@ -11,7 +11,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>방 명 록</title>
+<title>방 명 록99</title>
 <style type="text/css">
 	a { text-decoration: none;}
 	table{width: 500px; border-collapse:collapse; }
