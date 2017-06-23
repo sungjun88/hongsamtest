@@ -30,7 +30,7 @@ public class MyController {
 	}
 	@RequestMapping("/onelist.do")
 	public ModelAndView getOneList(VO vo){
-		//55555
+		//55524278787855
 		ModelAndView mv= new ModelAndView("onelist");
 		VO onevo = dao.getOneList(vo.getName(), vo.getPwd());
 		mv.addObject("vo", onevo);
